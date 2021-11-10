@@ -1,4 +1,4 @@
-package Train;
+package RoboticsTraining2022.Train;
 
 public class Color {
     double r, g, b;

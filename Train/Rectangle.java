@@ -1,4 +1,4 @@
-package Train;
+package RoboticsTraining2022.Train;
 
 public class Rectangle extends Shape implements Sided, Colorable {
     double width, height;
