@@ -44,7 +44,7 @@ public class EnumWithFuncs {
     }
 
     public static void goToHeight(Height h) {
-        System.out.println(h.get());
+        System.out.println(h.getString());
     }
 
     public static void main(String args[]) {
